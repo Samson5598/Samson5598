@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Samson5598
-- 👀 I’m interested in javascript
+- 👋 Hi, I’m @Samsonokigbo
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on javascript
 - 📫 How to reach me email me @samsonokigbo5598.gmail.com
